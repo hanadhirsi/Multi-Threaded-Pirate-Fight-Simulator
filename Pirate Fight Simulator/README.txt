@@ -1,4 +1,4 @@
-Author: Hanad Hirsi (Student ID: 101191986‌‌ )
+Author: Hanad Hirsi
 
 Purpose: This program simulates a battle between a tortoise and a hare to fight againts pirates.
 the program runs 100 simulations by default of 3 different scenarios where the tortoise and hare fight:
